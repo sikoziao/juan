@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>tecno a la gest</title>
+<meta charset="UTF-8">
+</head>
+<body>
+
+<h1>wena profe</h1>
+
+<p>&#128512;</p>
+<button type="button" onclick="myFunction()">Click Me!</button>
+
+<p id="demo">dele al boton xd</p>
+
+<script>
+function myFunction() { 
+  document.getElementById("demo").innerHTML = "el mejor profe es usted, esto creo q es algo de java!";
+}
+</script>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Universidad-autonoma-de-chile.png">
+
+</body>
+</html>
+
